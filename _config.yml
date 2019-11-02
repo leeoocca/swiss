@@ -17,7 +17,7 @@ title: leeoocca
 description: Languages student from Italy.
 baseurl: "/swiss" # the subpath of your site, e.g. /blog
 url: "https://leeocca.ml" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: jekyll # the GitHub repo name for your project
+github_repo: swiss # the GitHub repo name for your project
 github_username: jekyll
 
 # Optional social link, you can choose from the following options:
